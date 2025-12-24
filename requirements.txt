@@ -1,0 +1,27 @@
+# Базовые зависимости
+nltk>=3.8.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+Pillow>=10.0.0
+
+# Русский NLP
+natasha>=1.5.0
+pymorphy2>=0.9.1
+pymorphy2-dicts-ru>=2.4
+razdel>=0.5.0
+pymorphy2-dicts-ru>=2.4.417404651.20210822
+
+# Нейросетевые модели
+torch>=2.0.0
+transformers>=4.30.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Reinforcement Learning
+gym>=0.26.0
+stable-baselines3>=2.0.0
+
+# Утилиты
+setuptools
+tqdm>=4.65.0
+pyyaml>=6.0
